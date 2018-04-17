@@ -30,6 +30,7 @@ The [API reference](https://atom.io/docs/api) for developing packages is also do
 Download the latest [Atom release](https://github.com/atom/atom/releases/latest).
 
 Atom will automatically update when a new release is available.
+asdasdasdasdasd
 
 ### Windows
 
